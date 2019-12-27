@@ -24,6 +24,7 @@ CONFIG = {
     # Github Pages configuration
     'github_pages_branch': 'gh-pages',
     'commit_message': "'Publish site on {}'".format(datetime.date.today().isoformat()),
+    'site_url': SETTINGS['SITEURL'],
     # Port for `serve`
     'port': 8000,
 }
@@ -117,5 +118,5 @@ def gh_pages(c):
     preview(c)
     c.run('ghp-import -b {github_pages_branch} '
           '-m {commit_message} '
-          f'-c {SETTINGS[SITEURL]}'
+          f'-c {site_url}'
           '{deploy_path} -p'.format(**CONFIG))
