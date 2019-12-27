@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Will Mathewson, Nathan Ward'
 SITENAME = 'cabbageandshame'
-SITEURL = f'{SITENAME}.co.uk'
+SITEURL = f'www.{SITENAME}.co.uk'
 
 PATH = 'content'
 
