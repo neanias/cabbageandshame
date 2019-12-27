@@ -118,5 +118,5 @@ def gh_pages(c):
     preview(c)
     c.run('ghp-import -b {github_pages_branch} '
           '-m {commit_message} '
-          f'-c {site_url}'
+          '-c {site_url}'
           '{deploy_path} -p'.format(**CONFIG))
