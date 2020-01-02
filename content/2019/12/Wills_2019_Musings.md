@@ -1,10 +1,9 @@
 Title: Will's 2019 Musical Musings
 Date: 2019-12-27T15:24:12Z
 Category: Music
-Tags: EoY
+Tags: EoY, 2019
 Author: Will Mathewson
 Summary: Musings on 2019's music
-Slug: 20191227-Wills_2019_Musings
 
 I thought I'd put together some of my favourite music from 2019. This list is in no particular
 order and is by no means exhaustive! Much of this music has been talked about in other EoY lists,
