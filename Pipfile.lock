@@ -133,8 +133,7 @@
     "develop": {
         "ghp-import": {
             "hashes": [
-                "sha256:3e924ea720e4e1f82d56753db2154bfb86067472c5830732159c3a4c4fbc75d7",
-                "sha256:8a71a3e2b8b8786bde6d6c6b52d0503cde4ad37fc1652e02155b8e13c9e0980b"
+                "sha256:3e924ea720e4e1f82d56753db2154bfb86067472c5830732159c3a4c4fbc75d7"
             ],
             "index": "pypi",
             "version": "==0.5.5"
