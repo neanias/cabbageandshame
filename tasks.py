@@ -5,10 +5,12 @@ import shutil
 import sys
 import datetime
 
+from dateutil import tz
 from invoke import task
 from invoke.util import cd
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
 from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
+from pelican.utils import slugify
 
 SETTINGS_FILE_BASE = "pelicanconf.py"
 SETTINGS = {}
@@ -28,6 +30,10 @@ CONFIG = {
     ),
     # Port for `serve`
     "port": 8000,
+    # Slug regex substitution
+    "slug_regex_substitutions": (
+        DEFAULT_CONFIG["SLUG_REGEX_SUBSTITUTIONS"] + [(r"[-\s]+", "_")]
+    ),
 }
 
 
@@ -78,7 +84,8 @@ def reserve(c):
     build(c)
     serve(c)
 
-@task
+
+@task(pre=[clean])
 def preview(c):
     """Cleans any compiled files then builds production version of site"""
     c.run("pelican -s {settings_publish}".format(**CONFIG))
@@ -131,3 +138,51 @@ def gh_pages(c):
         "-m {commit_message} "
         "{deploy_path} -p".format(**CONFIG)
     )
+
+
+@task(help={"title": 'The title for the new article. Defaults to "Article title".'})
+def generate_article(c, title="Article title"):
+    """Generates a new empty article for the blog.
+
+    The current date will be used for the metadata as well as the positioning
+    of the article in the `content` tree.
+    """
+    current_datetime = datetime.datetime.now(tz=tz.gettz())
+
+    # Create a slug for the file system using Pelican's slugification code
+    slug = slugify(title, regex_subs=CONFIG["slug_regex_substitutions"])
+
+    year_and_month_path = os.path.join(
+        "content", str(current_datetime.year), str(current_datetime.month)
+    )
+    os.makedirs(year_and_month_path, exist_ok=True)
+
+    full_path = os.path.join(year_and_month_path, f"{slug}.md")
+
+    if os.path.exists(full_path):
+        sys.exit(
+            f"Error: {full_path} already exists! Please use a different "
+            "title for your post."
+        )
+
+    with open(full_path, "w") as f:
+        metadata = {
+            "Title": title,
+            "Date": current_datetime.isoformat(timespec="seconds"),
+            "Category": "TODO: CATEGORISE",
+            "Tags": "TODO: TAG",
+            "Author": "Some Person",
+            "Summary": "Short summary about the article",
+        }
+
+        for (key, value) in metadata.items():
+            f.write(f"{key}: {value}\n")
+
+        f.write(
+            "\nAdd some content here. Here's a cheat sheet on markdown: "
+            "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
+        )
+
+        f.write("\n")
+
+    print(f"Your template article can be found here: {full_path}")
