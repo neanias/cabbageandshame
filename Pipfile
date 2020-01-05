@@ -4,11 +4,12 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-invoke = "*"
-ghp-import = "*"
+invoke = "~=1.4.0"
+ghp-import = "~=0.5.5"
 
 [packages]
-pelican = {extras = ["markdown"],version = "*"}
+pelican = {extras = ["markdown"],version = "~=4.2.0"}
+pymdown-extensions = "~=6.2.0"
 
 [requires]
 python_version = "3.8"
