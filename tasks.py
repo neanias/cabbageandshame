@@ -23,8 +23,8 @@ CONFIG = {
     'deploy_path': SETTINGS['OUTPUT_PATH'],
     # Github Pages configuration
     'github_pages_branch': 'gh-pages',
-    'commit_message': "'Publish site on {}'".format(datetime.date.today().isoformat()),
-    'site_url': SETTINGS['SITEURL'],
+    'commit_message': "'Publish site at {}'".format(datetime.datetime.now().isoformat()),
+    'site_url': 'www.cabbageandshame.co.uk',
     # Port for `serve`
     'port': 8000,
 }
