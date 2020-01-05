@@ -35,12 +35,6 @@
  * Update the foundational and global aspects of the page.
  */
 
-* {
-  -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
-}
-
 html,
 body {
   margin: 0;
@@ -51,6 +45,7 @@ html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
+  box-sizing: border-box;
 }
 @media (min-width: 38em) {
   html {
@@ -234,6 +229,14 @@ img {
   border-radius: 5px;
 }
 
+img.twemoji {
+  display: inline;
+  height: 1em;
+  width: 1em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em;
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;
@@ -345,11 +348,17 @@ tbody tr:nth-child(odd) th {
 }
 
 /* Meta data line below post title */
-.post-date {
+.post-authors,
+.post-metadata {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
+}
+
+.post-date,
+.post-category {
+  display: inline;
 }
 
 /* Related posts */

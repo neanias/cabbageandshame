@@ -13,16 +13,19 @@
 {% block content %}
 <div class="post">
     <h1 class="post-title">{{ article.title }}</h1>
-    <span class="post-date">
+    <span class="post-authors">
       {% for author in article.authors %}
         <a href="/{{ author.url|e }}" target="_blank">{{ author.name }}</a>{% if not loop.last %}, {% endif %}
       {% endfor %}
     </span>
-    <span class="post-date" title="{{ article.date|strftime("%Y-%m-%dT%H:%M:%S%z") }}">{{ article.locale_date }}</span>
+    <p class="post-metadata">
+        <span class="post-date" title="{{ article.date|strftime("%Y-%m-%dT%H:%M:%S%z") }}">{{ article.locale_date }}</span>
+        <span class="post-category">under <a href="/{{ article.category.url }}">{{ article.category }}</a></span>
+    </p>
     {{ article.content }}
     <span class="post-tags">
       {% for tag in article.tags %}
-      <a href="/{{ tag.url }}">#{{ tag.name}}</a>{% if not loop.last %} {% endif %}
+        <a href="/{{ tag.url }}">#{{ tag.name}}</a>{% if not loop.last %} {% endif %}
       {% endfor %}
     </span>
     {% include 'fragments/disqus.html' %}
