@@ -2,10 +2,12 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+from pymdownx import emoji
+
 AUTHOR = 'Will Mathewson, Nathan Ward'
 PROFILE_IMAGE = 'IMG_0825.png'
 BIO = "A post-modern identity crisis with Will & Nathan"
-SITENAME = 'Cabbage and Shame'
+SITENAME = 'Cabbage & Shame'
 SITEURL = ''
 THEME = 'theme'
 
@@ -28,8 +30,16 @@ DEFAULT_METADATA = {
 }
 
 MARKDOWN = {
+    'extensions': [
+        'pymdownx.emoji',
+        'pymdownx.tilde',
+    ],
     'extension_configs': {
         'markdown.extensions.smarty': {},
+        'pymdownx.emoji': {
+            'emoji_index': emoji.twemoji,
+            'emoji_generator': emoji.to_svg,
+        },
     },
 }
 
