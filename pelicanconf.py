@@ -7,7 +7,8 @@ from pymdownx import emoji
 AUTHOR = "Will Mathewson, Nathan Ward"
 PROFILE_IMAGE = "IMG_0825.png"
 BIO = "A post-modern identity crisis with Will & Nathan"
-SITENAME = "Cabbage & Shame"
+SITENAME = "Cabbage and Shame"
+SIDEBAR_NAME = "Cabbage & Shame"
 SITEURL = ""
 THEME = "theme"
 
