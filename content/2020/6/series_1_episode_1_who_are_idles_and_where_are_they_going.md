@@ -9,8 +9,8 @@ Status: published
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/b4f4c876-65e0-49ed-b8b1-1ca77931628d?dark=false"></iframe>
 
 The episode is available on
-[iTunes](https://podcasts.apple.com/gb/podcast/cabbage-and-shame/id1514967827) and
-[Spotify](https://open.spotify.com/episode/2X5XNL5W61mKqZ1w9sVADh).
+[iTunes](https://podcasts.apple.com/gb/podcast/s1e1-who-are-idles-and-where-are-they-going/id1514967827?i=1000476464194)
+and [Spotify](https://open.spotify.com/episode/2X5XNL5W61mKqZ1w9sVADh).
 
 With the recent release of the single, Mr. Motivator, we delve into the musical history and
 evolution of the self proclaimed "not a f\*cking punk band," IDLES. In this episode, we break down
