@@ -23,6 +23,7 @@
         <span class="post-category">under <a href="/{{ article.category.url }}">{{ article.category }}</a></span>
     </p>
     {{ article.content }}
+    <br/>
     <span class="post-tags">
       {% for tag in article.tags %}
         <a href="/{{ tag.url }}">#{{ tag.name}}</a>{% if not loop.last %} {% endif %}
