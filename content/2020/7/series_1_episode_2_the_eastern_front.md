@@ -23,11 +23,13 @@ bloody popular in Latin America. (Spoiler: we still don't know.)
 
 Links mentioned in the show:
 
-* Public Practice's previous band, WALL: <https://www.youtube.com/watch?v=hLGZF1HgPwo>
+* Public Practice's previous band, WALL:
+    <https://www.youtube.com/watch?v=hLGZF1HgPwo>
 * How Belarusian Post-Punks Molchat Doma Became a TikTok Meme from Pitchfork:
     <https://pitchfork.com/thepitch/how-belarusian-post-punks-molchat-doma-became-a-tiktok-meme/>
 
-Check out the [S1E2 playlist](https://open.spotify.com/playlist/73wGxrwhrI2Qb9QKTRV66Y?si=NnHHw9pwQmuMD7HNw5bMGQ)! For
-convenience, the playlist is embedded below.
+Check out the [S1E2
+playlist](https://open.spotify.com/playlist/73wGxrwhrI2Qb9QKTRV66Y?si=NnHHw9pwQmuMD7HNw5bMGQ)!
+For convenience, the playlist is embedded below.
 
 <iframe src="https://open.spotify.com/embed/playlist/73wGxrwhrI2Qb9QKTRV66Y" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
