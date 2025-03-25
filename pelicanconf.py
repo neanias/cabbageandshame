@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
 
 from pymdownx import emoji
 
@@ -31,7 +29,9 @@ AUTHOR_FEED_RSS = None
 
 STATIC_PATHS = ["images", "extra/CNAME"]
 EXTRA_PATH_METADATA = {
-    "extra/CNAME": {"path": "CNAME",},
+    "extra/CNAME": {
+        "path": "CNAME",
+    },
 }
 
 DEFAULT_METADATA = {
@@ -39,7 +39,10 @@ DEFAULT_METADATA = {
 }
 
 MARKDOWN = {
-    "extensions": ["pymdownx.emoji", "pymdownx.tilde",],
+    "extensions": [
+        "pymdownx.emoji",
+        "pymdownx.tilde",
+    ],
     "extension_configs": {
         "markdown.extensions.smarty": {},
         "pymdownx.emoji": {

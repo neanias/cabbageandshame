@@ -1,13 +1,12 @@
 # -*- coding: utf-8 -*-
 
+import datetime
 import os
 import shutil
 import sys
-import datetime
 
 from dateutil import tz
 from invoke import task
-from invoke.util import cd
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
 from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
 from pelican.utils import slugify
@@ -175,7 +174,7 @@ def generate_article(c, title="Article title"):
             "Summary": "Short summary about the article",
         }
 
-        for (key, value) in metadata.items():
+        for key, value in metadata.items():
             f.write(f"{key}: {value}\n")
 
         f.write(
