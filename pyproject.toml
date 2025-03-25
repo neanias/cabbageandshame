@@ -11,7 +11,7 @@ dependencies = [
 
 [dependency-groups]
 dev = [
-    "invoke~=1.4.0",
+    "invoke~=2.2.0",
     "ghp-import~=2.1.0",
     "ruff>=0.11.2",
 ]
