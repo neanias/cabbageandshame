@@ -19,12 +19,15 @@ I remember finding this, _Shine on Crazy Diamond_ and (the lesser known) _Atom
 Heart Mother_. Roger and I both got really into this album and I listened to
 Pink Floyd almost non-stop for about 2 months, obsessing over all the
 studio-as-an-instrument detail and ignoring my parent’s suggestion to listen to
-Emerson, Lake and Palmer (I had street cred, obviously). I have a clear memory
-of trying to convince my sister of their brilliance by pointing out their use
-of panning the audio from the left channel into the right channel and then out
-of both ears. She just said that she’d heard other music do that too. The copy
-of this that I have in my music library is probably the same from when I ripped
-this CD in the kitchen in Suffolk some 15 years ago. It living on in a new iPod
-is a particularly fond thought.
+Emerson, Lake and Palmer (I had street cred, obviously).
+
+I have a clear memory of trying to convince my sister of their brilliance by
+pointing out their use of panning the audio from the left channel into the
+right channel and then out of both ears. She just said that she’d heard other
+music do that too. The copy of this that I have in my music library is probably
+the same from when I ripped this CD in the kitchen in Suffolk some 15 years
+ago.
+
+It living on in a new iPod is a particularly fond thought.
 
 [← Previous]({filename}bakers_dozen_2.md) | [Next →]({filename}bakers_dozen_4.md)
