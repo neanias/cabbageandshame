@@ -228,10 +228,7 @@ replied to us about it and said they were also big fans of Yard Act and hoped to
 do something with them. Alas, I think Yard Act have rather outgrown such
 possibilities.
 
-## [Sparks - No. 1 In Heaven]({filename}bakers_dozen_13.md)
-
-![Sparks - No. 1 In
-Heaven](https://upload.wikimedia.org/wikipedia/en/5/5f/No_1_in_Heaven_-_Sparks.jpg)
+## Sparks - No. 1 In Heaven
 
 Would this list be complete without a Sparks album? No. Is this my 100%
 favourite Sparks album? Also no. Do I have just 1 favourite Sparks album? _The
