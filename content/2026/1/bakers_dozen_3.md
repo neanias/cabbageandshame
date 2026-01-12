@@ -7,7 +7,7 @@ Summary: Pink Floyd - The Dark Side of the Moon
 Status: hidden
 
 ![Pink Floyd - The Dark Side of the
-Moon](https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png)
+Moon](https://dn710607.ca.archive.org/0/items/mbid-956fbc58-362d-43b8-b880-3779e0508559/mbid-956fbc58-362d-43b8-b880-3779e0508559-34025419985.jpg)
 
 # Pink Floyd - The Dark Side of the Moon
 
@@ -27,4 +27,4 @@ of this that I have in my music library is probably the same from when I ripped
 this CD in the kitchen in Suffolk some 15 years ago. It living on in a new iPod
 is a particularly fond thought.
 
-[← Previous]({filename}bakers_dozen_2.md) [Next →]({filename}bakers_dozen_4.md)
+[← Previous]({filename}bakers_dozen_2.md) | [Next →]({filename}bakers_dozen_4.md)

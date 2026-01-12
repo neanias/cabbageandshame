@@ -7,7 +7,7 @@ Summary: Electric Light Orchestra - Out of the Blue
 Status: hidden
 
 ![ELO - Out of the
-Blue](https://upload.wikimedia.org/wikipedia/en/5/5a/ELO-Out_of_the_Blue_Lp.jpg)
+Blue](https://ia801305.us.archive.org/27/items/mbid-9ab258d0-ff81-443a-abd3-1f663a42839e/mbid-9ab258d0-ff81-443a-abd3-1f663a42839e-5891988350.jpg)
 
 # Electric Light Orchestra - Out of the Blue
 
@@ -21,4 +21,4 @@ member of the Traveling Wilburys with George Harrison. _Mr Blue Sky_ was
 written in Switzerland, in fact. I would say this is ELO's best album and I can
 always return to it and be instantly put in a good mood.
 
-[← Previous]({filename}bakers_dozen_1.md) [Next →]({filename}bakers_dozen_3.md)
+[← Previous]({filename}bakers_dozen_1.md) | [Next →]({filename}bakers_dozen_3.md)

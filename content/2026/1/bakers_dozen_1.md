@@ -7,7 +7,7 @@ Summary: The Beatles - 1
 Status: hidden
 
 ![The Beatles -
-1](https://upload.wikimedia.org/wikipedia/en/b/be/The_Beatles_1_album_cover.jpg)
+1](https://ia803102.us.archive.org/3/items/mbid-c8f74705-2545-48d2-b0c8-7c899f595b20/mbid-c8f74705-2545-48d2-b0c8-7c899f595b20-24693903582.jpg)
 
 # The Beatles - 1
 

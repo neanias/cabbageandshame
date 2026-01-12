@@ -7,7 +7,7 @@ Summary: Sparks - No. 1 in Heaven
 Status: hidden
 
 ![Sparks - No. 1 In
-Heaven](https://upload.wikimedia.org/wikipedia/en/5/5f/No_1_in_Heaven_-_Sparks.jpg)
+Heaven](https://artrockstore.com/cdn/shop/products/artrockstore-sparks-no1-in-heaven-album_1024x1024.jpg?v=1683170594)
 
 # Sparks - No. 1 In Heaven
 
@@ -26,4 +26,4 @@ I love this album as is, but to have had such a potent experience when given
 the LP itself will elevate it into a higher personal pantheon that Angst In My
 Pants, Kimono My House or FFS could never reach.
 
-[← Previous]({filename}bakers_dozen_12.md) [Next →]({filename}bakers_dozen_wrap_up.md)
+[← Previous]({filename}bakers_dozen_12.md) | [Next →]({filename}bakers_dozen_wrap_up.md)
