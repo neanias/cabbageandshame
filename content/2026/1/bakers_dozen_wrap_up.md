@@ -212,7 +212,7 @@ any other way. At some point under lockdown (I think I was still living alone?)
 I spent the entire evening sitting on my massive bed reading articles about The
 Cool Greenhouse, mainly by [the
 Quietus](https://thequietus.com/quietus-reviews/cool-greenhouse-crap-cardboard-pet-ep-album-review/),
-and blasting their EPs. As you may remember, a lot of the Cababge & Shame
+and blasting their EPs. As you may remember, a lot of the Cabbage & Shame
 episode devoted to _The Cool Greenhouse_ was Nathan and I just reading out the
 lyrics and laughing. It was a particularly bright memory in an otherwise dull
 time of my life.
@@ -237,7 +237,7 @@ of "Sparks album"_) of choice here is the overwhelming flush of emotion I had
 when I opened my Christmas present from you in 2023 to find it. It was only the
 second time I remember where I had a real sense of astonishment when I opened
 up a present. A feeling of _"this is absolutely what I want and I had never
-thought of it"_. The warmth of being known at one’s very core in an almost
+thought of it"_. The warmth of being known at one's very core in an almost
 visceral way. I was actually stunned to the point of having no words — an
 unusual position for me.
 

@@ -18,7 +18,7 @@ of "Sparks album"_) of choice here is the overwhelming flush of emotion I had
 when I opened my Christmas present from you in 2023 to find it. It was only the
 second time I remember where I had a real sense of astonishment when I opened
 up a present. A feeling of _"this is absolutely what I want and I had never
-thought of it"_. The warmth of being known at one’s very core in an almost
+thought of it"_. The warmth of being known at one's very core in an almost
 visceral way. I was actually stunned to the point of having no words — an
 unusual position for me.
 
