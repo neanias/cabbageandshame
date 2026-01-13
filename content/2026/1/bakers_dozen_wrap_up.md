@@ -50,12 +50,12 @@ always return to it and be instantly put in a good mood.
 
 I have had a prog phase; I know a lot music nerds who have. It feels like a
 certain rite of passage in a way. As a teenager (around 14-15) I was trying to
-find music to listen to of my own doing rather than in the car and looked
-through Dad’s quite serious collection of CDs. They were largely classical, but
+find music to listen to of my own choosing rather than in the car and looked
+through Dad's quite serious collection of CDs. They were largely classical, but
 I remember finding this, _Shine on Crazy Diamond_ and (the lesser known) _Atom
 Heart Mother_. Roger and I both got really into this album and I listened to
 Pink Floyd almost non-stop for about 2 months, obsessing over all the
-studio-as-an-instrument detail and ignoring my parent’s suggestion to listen to
+studio-as-an-instrument detail and ignoring my parents' suggestion to listen to
 Emerson, Lake and Palmer (I had street cred, obviously).
 
 I have a clear memory of trying to convince my sister of their brilliance by
@@ -71,20 +71,20 @@ It living on in a new iPod is a particularly fond thought.
 
 I would have picked this regardless of the 10th anniversary series on 6Music as
 it was my favourite Bowie album for a long time. I think it's probably since
-been toppled by Station to Station, Low or perhaps Scary Monsters. As many of
-the presenters and guests talked about, this is the album from Bowie's back
-catalogue. His innovations and growth in song writing just before he became
-wildly well-known and famous through Ziggy Stardust.
+been toppled by _Station to Station_, _Low_ or perhaps _Scary Monsters_. As
+many of the presenters and guests talked about, this is the album from Bowie's
+back catalogue. His innovations and growth in song writing just before he
+became wildly well-known and famous through _Ziggy Stardust_.
 
 I listened to this album particularly in my gap year (again, street cred) as I
 was leaving my prog rock phase and listening to other music. Bowie does, of
 course, sit in a similar bracket, but this is where I started to branch out,
 along with King Krule's first album (and King Crimson, but that's by the bye).
-I couldn't quite get into Ziggy as much as I could Hunky Dory. I found
-something about the experimentation of Hunky Dory much more exciting — it being
-a bit all over the shop made it much more exciting to me. Also, it's got some
-of Bowie’s best songs on. I can hardly say more than Brett Anderson has already
-said.
+I couldn't quite get into _Ziggy_ as much as I could _Hunky Dory_. I found
+something about the experimentation of _Hunky Dory_ much more exciting — it
+being a bit all over the shop made it much more interesting to me. Also, it's
+got some of Bowie's best songs on. I can hardly say more than Brett Anderson
+has already said.
 
 ## Madvillain - Madvillainy
 
@@ -125,15 +125,15 @@ _&lt;Matt Berry voice>New York City&lt;/Matt Berry voice>_ makes no sense, but
 there's a certain Texas country vibe that still lurks under the surface of this
 album and that really does make sense.
 
-This album is all killer, no filler. The slow twisting and turning from the hard
-& fast opening of Total Football (**_AND FUCK TOM BRADY!_**), through the
-unfettered anger of the delivery of Violence and the swan-song, murder ballad of
-Death Will Bring Change. There's a certain requiem in Tenderness as a closing
-number, but Nathan and I will continue to disagree about how albums should be
-closed.
+This album is all killer, no filler. The slow twisting and turning from the
+hard & fast opening of _Total Football_ (**_AND FUCK TOM BRADY!_**), through
+the unfettered anger of the delivery of _Violence_ and the swan-song, murder
+ballad of _Death Will Bring Change_. There's a certain requiem in _Tenderness_
+as a closing number, but Nathan and I will continue to disagree about how
+albums should be closed.
 
-The lyrical content of Violence being largely Foucauldian in nature was a point
-of recurring discussion in the flat because Nathan had been writing his
+The lyrical content of _Violence_ being largely Foucauldian in nature was a
+point of recurring discussion in the flat because Nathan had been writing his
 dissertation on surveillance being a form of state domestic terrorism. Also, we
 were wankers.
 
@@ -165,7 +165,7 @@ then-nascent post-punk scene in the UK. The number of small gigs Nathan & I
 went to after that shot up, the number of monthly listeners of our main bands
 collapsed (rocking the <1k bands) and the active trajectory of what I was
 listening to changed, totally. From Squid, I got into Dry Cleaning, Sorry,
-Shame, Fontaines D.C. and Lord only knows how many others. Houseplants was my
+Shame, Fontaines D.C. and Lord only knows how many others. _Houseplants_ was my
 gateway drug and I will never kick the habit.
 
 ## Gang of Four - Entertainment!

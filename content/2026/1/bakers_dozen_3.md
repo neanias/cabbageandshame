@@ -13,12 +13,12 @@ Moon](https://dn710607.ca.archive.org/0/items/mbid-956fbc58-362d-43b8-b880-3779e
 
 I have had a prog phase; I know a lot music nerds who have. It feels like a
 certain rite of passage in a way. As a teenager (around 14-15) I was trying to
-find music to listen to of my own doing rather than in the car and looked
-through Dad’s quite serious collection of CDs. They were largely classical, but
+find music to listen to of my own choosing rather than in the car and looked
+through Dad's quite serious collection of CDs. They were largely classical, but
 I remember finding this, _Shine on Crazy Diamond_ and (the lesser known) _Atom
 Heart Mother_. Roger and I both got really into this album and I listened to
 Pink Floyd almost non-stop for about 2 months, obsessing over all the
-studio-as-an-instrument detail and ignoring my parent’s suggestion to listen to
+studio-as-an-instrument detail and ignoring my parents' suggestion to listen to
 Emerson, Lake and Palmer (I had street cred, obviously).
 
 I have a clear memory of trying to convince my sister of their brilliance by

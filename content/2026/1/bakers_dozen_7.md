@@ -16,15 +16,15 @@ _&lt;Matt Berry voice>New York City&lt;/Matt Berry voice>_ makes no sense, but
 there's a certain Texas country vibe that still lurks under the surface of this
 album and that really does make sense.
 
-This album is all killer, no filler. The slow twisting and turning from the hard
-& fast opening of Total Football (**_AND FUCK TOM BRADY!_**), through the
-unfettered anger of the delivery of Violence and the swan-song, murder ballad of
-Death Will Bring Change. There's a certain requiem in Tenderness as a closing
-number, but Nathan and I will continue to disagree about how albums should be
-closed.
+This album is all killer, no filler. The slow twisting and turning from the
+hard & fast opening of _Total Football_ (**_AND FUCK TOM BRADY!_**), through
+the unfettered anger of the delivery of _Violence_ and the swan-song, murder
+ballad of _Death Will Bring Change_. There's a certain requiem in _Tenderness_
+as a closing number, but Nathan and I will continue to disagree about how
+albums should be closed.
 
-The lyrical content of Violence being largely Foucauldian in nature was a point
-of recurring discussion in the flat because Nathan had been writing his
+The lyrical content of _Violence_ being largely Foucauldian in nature was a
+point of recurring discussion in the flat because Nathan had been writing his
 dissertation on surveillance being a form of state domestic terrorism. Also, we
 were wankers.
 

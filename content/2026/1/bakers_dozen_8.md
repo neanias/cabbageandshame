@@ -28,7 +28,7 @@ then-nascent post-punk scene in the UK. The number of small gigs Nathan & I
 went to after that shot up, the number of monthly listeners of our main bands
 collapsed (rocking the <1k bands) and the active trajectory of what I was
 listening to changed, totally. From Squid, I got into Dry Cleaning, Sorry,
-Shame, Fontaines D.C. and Lord only knows how many others. Houseplants was my
+Shame, Fontaines D.C. and Lord only knows how many others. _Houseplants_ was my
 gateway drug and I will never kick the habit.
 
 [← Previous]({filename}bakers_dozen_7.md) | [Next →]({filename}bakers_dozen_9.md)
